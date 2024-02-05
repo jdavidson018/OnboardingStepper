@@ -3,6 +3,7 @@
 import SwiftUI
 
 public struct OnboardingStepper: View {
+    public init() {}
     public var body: some View {
         Text("Onboarding Stepper")
     }
